@@ -2,8 +2,8 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        String name = "Weronika";
-        int age = 14;
+        String name = "Kuba";
+        int age = 16;
         int option = 2;
 
         System.out.println("Hello");
@@ -12,7 +12,7 @@ public class Main {
             System.out.println("Whats yor name?");
             System.out.println(name);
         }
-        while (name != "Weronika");
+        while (name != "Kuba");
 
 
         switch (option) {
